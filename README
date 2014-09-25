@@ -1,0 +1,11 @@
+MASTERMIND ~ mastermind.pl
+
+Der Computer erzeugt eine Farbkombination aus 6 Farben (Zahlen von 1-6)
+Farben können in der Farbkombination mehrfach vorkommen.
+Der Benutzer rät die Zahlenkombination.
+Der Computer antwortet mit einer Anzahl von „+“ die der Anzahl der richtig geratenen Farben
+am richtigen Ort und einer Anzahl von „-“ die der Anzahl der richtig geratenen Farben am
+falschen Ort entspricht.
+Das Spiel wird beendet, wenn der Benutzer die richtige Farbkombination errät.
+Der Computer gibt die Anzahl der Spielzüge aus.
+
