@@ -1,4 +1,8 @@
-MASTERMIND ~ mastermind.pl
+## MASTERMIND
+
+```bash
+perl mastermind.pl
+```
 
 Der Computer erzeugt eine Farbkombination aus 6 Farben (Zahlen von 1-6)
 Farben können in der Farbkombination mehrfach vorkommen.
